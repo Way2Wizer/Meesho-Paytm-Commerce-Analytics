@@ -7,7 +7,7 @@ E-commerce platforms targeting Tier 2 and Tier 3 markets historically struggle w
 
 ---
 
-## 🐍 [Data Generation](Data_Generation/)
+## 🐍 [Data Generation](Data_ Generation/)
 *Note: As transaction-level data for these companies is proprietary, I engineered a parameter-grounded synthetic dataset mimicking real-world e-commerce behaviors.*
 
 > The custom Python notebook ([`Data_Generation.ipynb`](Data_Generation/Data_Generation.ipynb)) builds this dataset from scratch. 
