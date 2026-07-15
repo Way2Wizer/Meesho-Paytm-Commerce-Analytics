@@ -1,9 +1,11 @@
 # 🛒 Cash vs. Cashless: Meesho x Paytm Adoption Strategy
 
+[![Dashboard Preview](Dashboard_powerbi/meesho_paytm_dashboard.png)](Dashboard_powerbi/meesho_paytm_dashboard.png)
+
 ### Tools Used: Python, SQL Server (T-SQL), Power BI
 
 ## 📌 The Business Problem
-> E-commerce platforms targeting Tier 2 and Tier 3 markets historically struggle with the logistics costs of Cash on Delivery (COD). This project simulates a strategic partnership between a reseller-driven marketplace (Meesho proxy) and a digital payments layer (Paytm proxy) to analyze the tipping point where digital adoption becomes highly profitable.
+E-commerce platforms targeting Tier 2 and Tier 3 markets historically struggle with the logistics costs of Cash on Delivery (COD). This project simulates a strategic partnership between a reseller-driven marketplace (Meesho proxy) and a digital payments layer (Paytm proxy) to analyze the tipping point where digital adoption becomes highly profitable.
 
 ---
 
@@ -19,16 +21,16 @@ The simulated outputs were exported as flat files for database ingestion.
 
 ## ⚙️ [SQL Architecture & Analytics](SQL/)
 This directory contains the T-SQL scripts used to construct the backend and extract business insights.
->> **Architecture:** Executed [`Database_&_Schema.sql`](SQL/Database_&_Schema.sql) to build a normalized 5-table relational schema with primary/foreign key constraints. 
->> **Data Loading:** Utilized `BULK INSERT` via [`proc_load.sql`](SQL/proc_load.sql) and [`CSV_import.sql`](SQL/CSV_import.sql) to efficiently populate the database.
->> **Advanced Analytics:** 
-  > Built native **RFM Customer Segmentation** using `NTILE()` window functions to categorize users into high-value and churn-risk cohorts.
-  > Engineered a dynamic, month-on-month **Cohort Retention Matrix** using advanced date-part truncation (`DATEADD`, `DATEDIFF`).
+> **Architecture:** Executed [`Database_&_Schema.sql`](SQL/Database_&_Schema.sql) to build a normalized 5-table relational schema with primary/foreign key constraints. 
+> **Data Loading:** Utilized `BULK INSERT` via [`proc_load.sql`](SQL/proc_load.sql) and [`CSV_import.sql`](SQL/CSV_import.sql) to efficiently populate the database.
+> **Advanced Analytics:** 
+  >> Built native **RFM Customer Segmentation** using `NTILE()` window functions to categorize users into high-value and churn-risk cohorts.
+  >> Engineered a dynamic, month-on-month **Cohort Retention Matrix** using advanced date-part truncation (`DATEADD`, `DATEDIFF`).
 
 ## 📊 [Executive Dashboard](Dashboard_powerbi/)
 The final business intelligence layer designed for product and executive stakeholders. 
 > **Live File:** [`meesho_paytm.pbix`](Dashboard_powerbi/meesho_paytm.pbix)
-> **Static Export:** [`meesho_paytm - Power BI.pdf`](Dashboard_powerbi/meesho_paytm%20-%20Power%20BI.pdf)
+> **Static Export:** [`meesho_paytm_dashboard.png`](Dashboard_powerbi/meesho_paytm_dashboard.png)
 
 ---
 
