@@ -1,0 +1,501 @@
+product_id,category,base_price,reseller_id
+6451,Beauty,497.45,687
+7920,Beauty,603.7,538
+2644,Beauty,726.36,118
+3627,Jewelry,478.71,303
+5275,Beauty,968.58,445
+9295,Apparel,819.57,774
+2087,Apparel,325.23,445
+6764,Jewelry,179.55,472
+7895,Jewelry,805.35,869
+9973,Apparel,662.29,952
+6353,Home & Kitchen,353.25,553
+8426,Apparel,1413.18,472
+1448,Home & Kitchen,129.64,974
+1853,Home & Kitchen,666.57,533
+4010,Home & Kitchen,199.03,958
+8264,Apparel,488.46,239
+3229,Home & Kitchen,436.61,351
+1050,Home & Kitchen,358.61,108
+7564,Apparel,1180.78,264
+4278,Beauty,725.82,459
+6006,Beauty,651.37,161
+6140,Apparel,1372.5,406
+2347,Beauty,777.6,231
+2815,Electronics,3465.69,714
+3585,Apparel,1143.61,901
+5089,Home & Kitchen,666.79,541
+9460,Beauty,298.26,281
+3131,Beauty,451.71,367
+7722,Jewelry,600.89,303
+6233,Jewelry,861.92,855
+8397,Home & Kitchen,245.87,455
+8837,Beauty,290.39,869
+3187,Beauty,101.11,531
+5270,Beauty,455.41,869
+3842,Jewelry,392.86,942
+6367,Apparel,356.38,108
+5616,Apparel,1366.94,531
+4254,Beauty,876.46,719
+2382,Home & Kitchen,703.02,538
+7791,Electronics,3950.3,400
+7022,Jewelry,892.93,225
+3980,Electronics,3238.04,980
+7447,Beauty,725.47,736
+7182,Electronics,1158.21,901
+4677,Beauty,207.27,225
+1339,Apparel,461.02,360
+1376,Jewelry,809.06,803
+4747,Beauty,953.97,336
+2457,Apparel,383.96,687
+8576,Beauty,376.19,264
+4248,Jewelry,362.58,553
+5289,Beauty,731.82,360
+3764,Electronics,3361.17,901
+1815,Electronics,2775.83,192
+7570,Jewelry,324.53,602
+8027,Electronics,2571.96,336
+5262,Beauty,803.17,343
+3445,Jewelry,740.11,952
+2459,Electronics,998.52,476
+7028,Apparel,722.09,541
+3787,Apparel,972.44,224
+2922,Home & Kitchen,431.51,531
+1231,Jewelry,694.99,832
+9615,Apparel,1219.53,216
+8129,Apparel,747.73,952
+8433,Beauty,603.0,360
+9096,Electronics,4000.58,459
+2941,Electronics,2286.13,541
+4328,Home & Kitchen,520.4,225
+4121,Electronics,505.0,719
+5361,Electronics,4912.28,645
+5717,Home & Kitchen,262.79,394
+7259,Apparel,1108.27,341
+3133,Home & Kitchen,630.55,541
+8066,Beauty,627.24,373
+4385,Jewelry,711.79,406
+4531,Apparel,1108.47,667
+5636,Beauty,340.4,162
+4102,Jewelry,488.26,832
+7853,Beauty,749.16,239
+3955,Beauty,593.99,719
+7693,Apparel,1199.63,459
+3391,Beauty,965.75,794
+1471,Electronics,2719.72,531
+5754,Electronics,1154.43,883
+4858,Jewelry,501.05,652
+8388,Apparel,1488.21,319
+5068,Beauty,683.39,608
+7056,Jewelry,164.49,319
+8506,Electronics,3124.32,343
+2404,Beauty,640.82,216
+1169,Home & Kitchen,788.11,903
+8682,Electronics,3576.86,492
+3182,Electronics,642.47,774
+6296,Beauty,549.54,859
+7513,Beauty,877.61,706
+4476,Electronics,684.2,459
+7283,Electronics,3236.06,958
+7935,Electronics,4280.28,492
+5198,Home & Kitchen,395.82,553
+2196,Electronics,4277.65,538
+2561,Home & Kitchen,478.93,433
+1962,Electronics,3583.65,318
+6453,Beauty,421.83,445
+4847,Beauty,883.5,645
+8715,Electronics,2796.25,216
+6804,Electronics,2658.85,608
+1745,Electronics,4125.79,511
+1087,Beauty,475.95,118
+5155,Beauty,154.31,492
+9266,Beauty,630.07,433
+7241,Electronics,3597.92,127
+5956,Jewelry,359.99,483
+7466,Apparel,801.72,883
+7076,Apparel,606.74,687
+3166,Apparel,1105.24,293
+1673,Electronics,2632.44,108
+3938,Apparel,937.53,635
+5264,Home & Kitchen,280.73,964
+3783,Beauty,658.61,687
+9253,Apparel,930.41,360
+9074,Jewelry,519.28,400
+6557,Home & Kitchen,836.16,281
+8669,Electronics,3810.09,680
+3161,Home & Kitchen,648.02,118
+2468,Jewelry,906.52,343
+6198,Apparel,268.64,231
+9690,Electronics,4309.92,599
+8093,Beauty,328.3,336
+3323,Electronics,4687.16,472
+5266,Beauty,422.34,907
+2914,Jewelry,844.56,421
+6132,Apparel,579.04,406
+1723,Home & Kitchen,216.2,684
+3095,Jewelry,932.28,318
+9179,Beauty,462.48,538
+5603,Apparel,1028.38,635
+6907,Apparel,1341.08,223
+8046,Apparel,953.43,804
+5635,Home & Kitchen,925.93,303
+5312,Apparel,542.58,635
+5321,Jewelry,890.95,614
+9470,Electronics,682.36,608
+6128,Apparel,1100.53,218
+8139,Beauty,879.05,394
+3703,Beauty,541.83,486
+6169,Beauty,253.99,336
+9049,Beauty,322.38,433
+3478,Home & Kitchen,540.05,293
+8208,Apparel,541.61,803
+1871,Home & Kitchen,249.72,351
+4095,Jewelry,598.06,162
+3435,Jewelry,792.64,367
+1894,Electronics,3580.36,231
+4766,Home & Kitchen,227.55,433
+4000,Electronics,3570.21,974
+1587,Apparel,707.89,855
+8704,Beauty,366.39,541
+5263,Electronics,573.34,684
+3679,Electronics,4021.76,923
+8653,Beauty,338.96,127
+8150,Apparel,988.03,459
+2900,Home & Kitchen,985.43,200
+9108,Apparel,395.59,293
+1668,Electronics,2068.4,161
+8233,Beauty,951.72,958
+6841,Beauty,154.29,855
+8949,Home & Kitchen,817.34,394
+8499,Jewelry,636.21,218
+9077,Home & Kitchen,850.84,903
+2843,Home & Kitchen,659.58,603
+3425,Beauty,455.27,216
+3025,Electronics,2017.76,855
+6727,Jewelry,397.21,599
+2533,Apparel,1345.5,445
+4337,Apparel,530.42,673
+5654,Jewelry,168.72,958
+3959,Electronics,2916.42,459
+3757,Apparel,1117.77,736
+9335,Beauty,854.26,541
+5469,Apparel,301.19,787
+4479,Jewelry,462.01,385
+1067,Home & Kitchen,521.67,608
+9618,Jewelry,831.76,984
+3958,Home & Kitchen,751.36,667
+7822,Electronics,3411.99,223
+2258,Beauty,736.7,538
+5033,Jewelry,956.09,455
+9161,Apparel,1483.62,923
+2545,Home & Kitchen,757.31,964
+6384,Beauty,274.58,223
+1425,Beauty,699.16,264
+5657,Jewelry,349.1,483
+2998,Home & Kitchen,364.43,984
+7458,Home & Kitchen,963.0,118
+7120,Apparel,395.33,323
+2737,Electronics,3234.74,225
+6300,Beauty,451.89,108
+3519,Beauty,527.13,406
+1473,Apparel,934.04,859
+2328,Home & Kitchen,499.17,531
+8540,Jewelry,876.55,360
+8861,Jewelry,454.98,445
+8439,Jewelry,821.95,108
+5412,Electronics,2958.25,673
+1095,Electronics,1179.24,459
+6397,Home & Kitchen,227.69,385
+1718,Jewelry,234.56,667
+8423,Electronics,3310.26,303
+6323,Beauty,509.5,541
+3118,Electronics,1681.18,603
+4463,Beauty,897.22,538
+1797,Jewelry,846.64,907
+6294,Electronics,2779.34,251
+1909,Home & Kitchen,301.09,952
+2158,Beauty,371.09,406
+9964,Jewelry,744.45,251
+7248,Jewelry,365.03,504
+2516,Jewelry,971.9,251
+7534,Apparel,1037.76,652
+5180,Jewelry,289.46,803
+3916,Home & Kitchen,572.82,804
+4933,Apparel,739.56,984
+7535,Apparel,1277.76,303
+2461,Electronics,3950.88,472
+1336,Apparel,1363.81,533
+4411,Home & Kitchen,126.58,958
+3669,Apparel,752.19,341
+7365,Beauty,951.65,492
+7592,Apparel,1159.04,231
+5668,Apparel,1357.58,400
+3525,Electronics,2647.03,603
+2975,Jewelry,517.23,433
+5891,Apparel,1231.17,855
+9042,Jewelry,451.38,433
+8083,Beauty,581.32,855
+6080,Electronics,2747.59,652
+3151,Apparel,974.78,760
+6882,Electronics,1280.89,706
+2574,Electronics,3285.52,974
+7020,Apparel,631.28,108
+9399,Beauty,494.79,760
+4274,Apparel,702.97,407
+9021,Apparel,1249.05,264
+8298,Electronics,4680.69,492
+7358,Jewelry,357.21,883
+8805,Jewelry,823.32,118
+5398,Beauty,826.5,223
+7931,Home & Kitchen,775.2,161
+2478,Home & Kitchen,281.63,531
+7922,Home & Kitchen,216.76,684
+7033,Beauty,329.68,774
+4053,Home & Kitchen,398.9,860
+8112,Electronics,3387.7,794
+7979,Electronics,1924.65,394
+2522,Home & Kitchen,612.91,587
+1662,Jewelry,539.6,984
+9410,Apparel,1014.93,645
+6599,Electronics,1352.98,433
+8594,Electronics,4437.44,223
+4673,Beauty,177.76,860
+3540,Beauty,309.14,760
+9115,Beauty,736.47,923
+9638,Apparel,281.96,794
+9596,Beauty,647.19,608
+2375,Jewelry,553.05,791
+5762,Jewelry,724.24,492
+8671,Electronics,4916.68,264
+8165,Electronics,4410.72,340
+2297,Jewelry,368.88,360
+8825,Beauty,117.76,687
+5921,Beauty,269.75,162
+3434,Beauty,650.69,531
+3093,Beauty,383.82,860
+5073,Jewelry,669.49,492
+9570,Jewelry,329.66,118
+8007,Apparel,397.14,645
+5841,Electronics,2175.9,318
+1781,Electronics,4186.04,400
+2253,Jewelry,477.57,855
+1738,Apparel,511.02,736
+9411,Apparel,218.27,400
+2763,Electronics,836.11,531
+9366,Beauty,462.41,223
+7961,Electronics,578.41,684
+7766,Electronics,796.59,445
+2548,Home & Kitchen,528.52,200
+8612,Beauty,465.51,832
+5151,Electronics,1746.17,859
+6823,Jewelry,635.13,680
+5175,Jewelry,596.86,903
+2339,Jewelry,143.94,774
+9248,Apparel,663.74,360
+1266,Beauty,311.04,760
+2866,Apparel,712.15,281
+8583,Apparel,1493.03,161
+3941,Apparel,497.96,455
+3985,Home & Kitchen,442.2,804
+7438,Electronics,4777.45,538
+1741,Jewelry,294.78,137
+2364,Home & Kitchen,580.45,340
+7819,Electronics,2553.17,516
+5876,Apparel,1177.33,367
+6143,Electronics,4996.38,855
+8454,Apparel,637.23,483
+8371,Jewelry,312.93,162
+5342,Apparel,1239.63,942
+6592,Apparel,434.69,531
+4066,Apparel,1134.82,264
+4458,Apparel,1405.92,225
+4032,Home & Kitchen,293.68,907
+2281,Electronics,4836.51,400
+5248,Electronics,3930.59,118
+2742,Electronics,4573.73,351
+8107,Apparel,1083.89,445
+9755,Electronics,2230.65,192
+1293,Home & Kitchen,752.8,472
+7470,Beauty,614.95,860
+2911,Home & Kitchen,766.42,486
+1217,Apparel,1352.09,531
+3813,Jewelry,847.31,373
+8817,Apparel,375.37,200
+8539,Electronics,944.58,459
+7637,Home & Kitchen,424.81,303
+8974,Apparel,1127.13,855
+5961,Beauty,235.75,483
+6910,Beauty,850.74,351
+7471,Beauty,746.47,820
+5958,Apparel,984.82,859
+2435,Home & Kitchen,616.16,293
+3049,Apparel,1114.22,225
+3213,Electronics,1473.47,608
+1227,Jewelry,407.87,476
+4126,Beauty,788.03,421
+2833,Home & Kitchen,181.32,714
+1260,Jewelry,353.67,883
+4083,Beauty,370.09,445
+1439,Jewelry,360.34,673
+4428,Jewelry,220.56,224
+8882,Apparel,878.85,504
+3378,Electronics,2787.44,820
+4961,Apparel,1147.75,493
+9824,Jewelry,328.09,964
+4127,Electronics,1666.51,445
+2410,Jewelry,543.82,231
+5930,Jewelry,685.04,958
+8592,Jewelry,521.3,673
+3427,Beauty,540.24,351
+8765,Beauty,904.46,803
+7912,Home & Kitchen,841.49,706
+1357,Beauty,649.23,400
+2908,Jewelry,725.89,400
+3721,Jewelry,493.91,901
+3497,Home & Kitchen,144.2,406
+8295,Jewelry,430.65,224
+8947,Apparel,730.48,602
+8724,Home & Kitchen,940.76,719
+1321,Beauty,338.99,860
+8364,Apparel,1291.19,714
+4975,Apparel,1226.82,883
+4298,Home & Kitchen,484.45,760
+5830,Home & Kitchen,144.59,373
+7418,Electronics,2615.54,455
+1834,Electronics,4821.83,223
+6469,Electronics,2872.06,952
+1129,Jewelry,136.51,343
+2682,Electronics,3475.28,652
+8074,Electronics,2841.95,787
+7810,Apparel,474.09,407
+9121,Apparel,359.44,860
+5764,Electronics,2954.53,860
+1606,Apparel,743.36,343
+8987,Beauty,553.76,635
+7548,Electronics,3790.03,791
+8964,Apparel,855.15,225
+8993,Electronics,2477.57,216
+4799,Home & Kitchen,481.73,760
+1994,Beauty,413.78,343
+9655,Home & Kitchen,150.92,336
+1311,Jewelry,109.24,774
+7914,Electronics,3402.79,303
+6174,Home & Kitchen,110.44,231
+2040,Apparel,1224.27,603
+5388,Home & Kitchen,627.54,360
+7834,Jewelry,223.03,118
+8755,Apparel,1463.69,580
+2915,Electronics,3263.59,492
+9106,Electronics,2067.98,264
+6681,Beauty,572.26,667
+8345,Electronics,2134.12,538
+8147,Jewelry,787.19,901
+1340,Electronics,3847.4,903
+3643,Jewelry,696.71,687
+5718,Electronics,704.27,216
+4149,Electronics,980.53,719
+8688,Electronics,797.79,803
+6633,Apparel,1441.37,218
+8178,Jewelry,671.89,820
+4802,Beauty,801.3,162
+9317,Electronics,2499.88,667
+4599,Jewelry,794.75,635
+6556,Electronics,1097.05,218
+8675,Electronics,4531.29,472
+3148,Beauty,387.4,360
+5806,Apparel,463.55,137
+7395,Home & Kitchen,874.07,500
+7829,Home & Kitchen,440.23,820
+6902,Beauty,300.55,127
+8738,Apparel,794.41,923
+3654,Apparel,749.57,516
+4394,Jewelry,601.36,200
+5627,Electronics,4164.69,684
+2412,Electronics,1824.9,587
+8911,Jewelry,440.08,511
+3115,Apparel,402.46,367
+3839,Beauty,979.06,400
+4268,Home & Kitchen,258.43,614
+3561,Home & Kitchen,905.16,421
+9063,Electronics,1335.66,385
+2653,Home & Kitchen,801.71,231
+7815,Electronics,2907.81,787
+9089,Jewelry,332.14,264
+5975,Jewelry,179.32,974
+4845,Beauty,770.44,883
+4431,Apparel,571.32,486
+1770,Beauty,589.89,901
+1297,Apparel,1396.77,907
+6878,Home & Kitchen,145.04,223
+5273,Jewelry,747.82,602
+6849,Jewelry,301.21,118
+3598,Electronics,1621.01,687
+3862,Home & Kitchen,299.4,341
+1523,Jewelry,407.21,901
+2043,Apparel,599.33,706
+6533,Jewelry,704.2,952
+8055,Jewelry,286.08,511
+2867,Jewelry,166.12,869
+4714,Electronics,3090.84,225
+2977,Home & Kitchen,362.75,433
+4671,Apparel,346.06,472
+8968,Home & Kitchen,803.12,714
+5224,Beauty,150.65,323
+6575,Home & Kitchen,845.35,493
+6820,Apparel,1374.8,533
+1764,Jewelry,533.76,980
+5382,Beauty,537.39,318
+3476,Electronics,3193.48,127
+9444,Apparel,865.78,980
+2706,Home & Kitchen,392.6,680
+1826,Home & Kitchen,478.21,859
+8173,Electronics,3477.57,942
+8489,Home & Kitchen,159.27,860
+2817,Jewelry,576.32,538
+2734,Electronics,2178.94,192
+2669,Home & Kitchen,951.83,803
+1687,Apparel,1236.05,192
+9311,Apparel,559.26,483
+2727,Beauty,450.18,293
+3736,Jewelry,163.15,223
+2934,Electronics,1259.22,433
+4365,Electronics,4613.87,974
+6925,Apparel,876.77,281
+3572,Home & Kitchen,894.25,860
+5786,Beauty,115.69,652
+9288,Home & Kitchen,756.93,360
+9165,Home & Kitchen,171.73,483
+2626,Apparel,479.75,883
+3527,Home & Kitchen,592.37,687
+6959,Jewelry,701.49,433
+6482,Jewelry,422.47,445
+3257,Apparel,897.04,421
+3014,Home & Kitchen,653.93,400
+4307,Electronics,2513.43,599
+8194,Home & Kitchen,148.85,264
+7811,Home & Kitchen,120.0,407
+1107,Electronics,1967.27,803
+5019,Home & Kitchen,240.6,635
+8760,Home & Kitchen,743.92,645
+5698,Beauty,960.94,791
+9274,Beauty,320.31,541
+3805,Jewelry,105.25,903
+2396,Apparel,786.19,684
+5358,Beauty,769.84,445
+7101,Electronics,3945.19,706
+7799,Electronics,1289.87,373
+6908,Beauty,934.74,483
+5021,Electronics,4150.35,538
+3483,Apparel,992.16,687
+9677,Apparel,417.92,367
+7909,Electronics,4662.25,319
+4738,Apparel,1477.78,860
+3260,Beauty,539.58,516
+8025,Jewelry,177.93,869
+7773,Electronics,944.46,952
+7706,Jewelry,278.7,804
+8516,Home & Kitchen,750.5,264
+9456,Apparel,1131.05,602
+6927,Home & Kitchen,792.91,336
+1487,Apparel,1227.53,421
+8251,Electronics,4207.38,706
